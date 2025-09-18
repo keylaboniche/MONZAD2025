@@ -1,0 +1,8 @@
+Cython>=0.29
+contextlib2
+pillow>=9.0,<11
+lxml>=4.9
+matplotlib<3.9
+tf_slim>=1.1.0
+opencv-python-headless>=4.7
+pycocotools>=2.0.7
